@@ -25,5 +25,5 @@ elsif username_1 !== " "
 elsif  username_1 !== "" && password_1 !== " "
   puts "No matching username or password."
 else username
-  "Max amoung of login attempts have been made."
+  "Max amount of login attempts have been made."
 end
